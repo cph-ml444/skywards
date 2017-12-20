@@ -1,0 +1,105 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Skywards</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="style.css" rel="stylesheet" type="text/css">
+
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<script type="text/javascript" src="engine0/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<!--script type="text/javascript" src="engine0/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<!--script type="text/javascript" src="engine0/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<!--script type="text/javascript" src="engine0/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	
+	</head>
+
+<body>
+
+<div class="banner"></div>
+
+<div class="container">
+      <header class="slideRight">
+        <!--	Add "slideRight" class to items that move right when viewing Nav Drawer  -->
+        <ul id="navToggle" class="burger slideRight">
+          <!--	Add "slideRight" class to items that move right when viewing Nav Drawer  -->
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
+        
+		  <div class="logo"><a href="#"><img src="emirates-skywards-logo.jpg"></a></div>
+      </header>
+      <nav class="slideLeft">
+        <ul>
+          <li><a href="http://ibrahimjabbari.com" class="active"><i class="dgicon-home"></i> Home</a></li>
+          <li><a href="#"><i class="dgicon-users"></i> Forum</a></li>
+          <li><a href="#"><i class="dgicon-tools"></i> Account</a></li>
+          <li><a href="#"><i class="dgicon-vcard"></i> Support</a></li>
+        </ul>
+      </nav>
+      <div class="content slideRight">
+        <!--	Add "slideRight" class to items that move right when viewing Nav Drawer  -->
+        <ul class="responsive">
+          <li class="header-section">
+           <div class="welcometext">
+            <p>Welcome to the E-Lounge</p>
+            </div>
+          </li>
+          <div class="body-section">
+    <div class="slidertext">
+	  <p>Special offers</p></div>
+            <div class="offers">
+            	<img src="offer1.jpg" alt="Rockmiles">
+           	  <h3>HOTELS</h3>
+           	  <h2>Earn up to 12.000 miles</h2>
+           	  <p class="offerp">Book with Rocketmiles over the holidays</p>
+            </div>
+            <div class="offers">
+           	  <img src="offer2.jpg" alt="Minor Hotels">
+           	  <h3>HOTELS</h3>
+           	  <h2>Earn more with Minor Hotels</h2>
+           	  <p class="offerp">Triple miles, room upgrades and more</p>
+            </div>
+            <div class="offers">
+            	<img src="offer3.jpg" alt="Avis car rental">
+              <h3>CAR RENTALS</h3>
+           	  <h2>Enjoy a free upgrade</h2>
+           	  <p class="offerp">Rent a car with Avis</p>
+            </div>
+           
+          </div>
+          
+          
+          <li class="body-section2">
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	
+	<div class="slidertext">
+	  <p>Earn and spend miles on new destinations</p></div>
+	
+	
+          </li>
+          
+          
+          <li class="footer-section">
+
+          </li>
+        </ul>
+      </div>
+</div>
+  
+<script  src="js/index.js"></script>
+		
+</body>
+</html>
