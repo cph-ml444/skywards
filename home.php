@@ -263,8 +263,7 @@ session_start();
           </div>
   </div>
     </div>
-	</div> 
-	<div class="fill"></div>
+
 <script  src="js/index.js"></script>
 	
 
