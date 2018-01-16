@@ -37,10 +37,10 @@ if (isset($_POST['submit'])) {
                     exit();
                 } elseif ($hashedPwdCheck == true) {
                     $_SESSION['user_id'] = $row['user_id'];
-                    $_SESSION['user_first'] = $row['user_id'];
-                    $_SESSION['user_last'] = $row['user_id'];
-                    $_SESSION['user_email'] = $row['user_id'];
-                    $_SESSION['user_uid'] = $row['user_id'];
+                    $_SESSION['user_first'] = $row['user_first'];
+                    $_SESSION['user_last'] = $row['user_last'];
+                    $_SESSION['user_email'] = $row['user_email'];
+                    $_SESSION['user_uid'] = $row['user_uid'];
                     header("location: ../home.php");
             exit();
                 }
@@ -49,6 +49,6 @@ if (isset($_POST['submit'])) {
     }
     
 } else {
-    header("location: login.php?login=error");
+    header("location: ../login.php?login=error");
     exit();
 }
